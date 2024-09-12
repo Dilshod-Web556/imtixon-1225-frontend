@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+.cont {
+    width: 1200px;
+    margin: auto;
+
+
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+}
+
+.head_nav {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    gap: 100px;
+    font-weight: bold;
+}
+
+button {
+    background-color: white;
+    border: 2px solid #DE2E54;
+    color: #DE2E54;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+}
+
+.head_nav li:hover {
+    transition: 0.5s;
+    color: #DE2E54;
+}
+
+header{
+    background: url(fon.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+margin:auto;
+background-size: contain;
+}
+
+.two{
+   color: white;
+   background-color:  #DE2E54CC;
+   margin-top: 50px;
+   font-size: 20px;
+   width: 250px;
+   height: 60px;
+}
+
+.txt{
+
+   font-size: 40px;
+
+}
+
+.wh{
+    color: white;
+}
+
+.flex{
+    display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+
+.odam{
+    margin-bottom: 200px;
+}
+
+.main{
+width: 1000px;
+display: flex;
+align-items: center;
+margin-left: 350px;
+margin-top: 100px;
+
+}
+
+h3{
+    text-align: center;
+font-size: 50px;
+}
+
+.botle{
+    font-size: 20px;
+}
+
+.main_two{
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    margin-left: 350px;
+    margin-top: 100px;
+}
+
+.manual{
+    font-size: 20px;
+}
+
+.color{
+   
+   width: 1796px;
+    background-color: #0EB4C1;
+   height: 860px;
+    margin-top: 200px;
+}
+
+.loc{
+    border-radius: 20px 20px;
+    margin-left: 100px;
+
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 100px;
+    padding-top: 100px;
+    font-size: 50px;
+}
+
+.name{
+    display: flex;
+    justify-content: space-around;
+}
+
+.code{
+    width: 600px;
+    height: 450px;
+    background-color: white;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.rew{
+    width: 460px;
+    height: 50px;
+    margin-bottom: 20px;
+font-size: 19px;
+font-weight: bold;
+}
+
+.end{
+    width: 460px;
+    border: none;
+    background-color: #38CC8B;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    box-shadow: 1px 1px 5px 5px #00000017;
+}
+
+.container{
+  margin-top: 140px;
+    width: 1796px;
+    height: 129px;
+    background-color: #222222;
+}
+
+.logo_two {
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+}
+
+.two_nav {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    gap: 100px;
+    font-weight: bold;
+    color: white;
+}
+
+.two_nav li:hover {
+    transition: 0.5s;
+    color: #DE2E54;
+}
+
